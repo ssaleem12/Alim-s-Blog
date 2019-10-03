@@ -40,12 +40,12 @@ body{
 
 #caption{
 	font-size: 15px;
-    color: #414042;
-    margin: 1;
-    font-family: "Open Sans",sans-serif;
-    line-height: 23px;
-    border-bottom: 2px solid #4ea0d8;
-
+    	color: #414042;
+    	margin: 1;
+    	font-family: "Open Sans",sans-serif;
+    	line-height: 23px;
+    	border-bottom: 2px solid #4ea0d8;
+	
 }
 
 .profile-pic{
@@ -106,26 +106,26 @@ body{
 .read-more{
 	cursor: pointer;
 	outline: 0;
-    outline-color: transparent;
-    outline-style: none;
-    box-shadow: none;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    color: #fff;
-    background-color: #c9344c;
-    border-color: #c9344c;
-    display: inline-block;
-    font-weight: 400;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    user-select: none;
-    border: 1px solid transparent;
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    line-height: 1.5;
-    border-radius: .25rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    	outline-color: transparent;
+    	outline-style: none;
+    	box-shadow: none;
+    	margin-bottom: 10px;
+    	margin-top: 10px;
+    	color: #fff;
+    	background-color: #c9344c;
+    	border-color: #c9344c;
+    	display: inline-block;
+    	font-weight: 400;
+    	text-align: center;
+    	white-space: nowrap;
+    	vertical-align: middle;
+    	user-select: none;
+    	border: 1px solid transparent;
+    	padding: .375rem .75rem;
+    	font-size: 1rem;
+    	line-height: 1.5;
+    	border-radius: .25rem;
+    	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 
@@ -146,10 +146,10 @@ body{
 	/*font-size: 30px;*/
 	margin: 10px 20px 5px;
 	font-size: 30px;
-    color: #1e9ebb;
-    font-weight: 600;
-    line-height: 30px;
-    text-decoration: none;
+    	color: #1e9ebb;
+    	font-weight: 600;
+    	line-height: 30px;
+    	text-decoration: none;
 	
 
 
@@ -162,36 +162,37 @@ body{
 
 }
 
+.read-more-1{
+	cursor: pointer;
+	outline: 0;
+    	outline-color: transparent;
+    	outline-style: none;
+    	box-shadow: none;
+    	margin-bottom: 10px;
+    	margin-top: 10px;
+    	color: #fff;
+    	background-color: #c9344c;
+    	border-color: #c9344c;
+    	display: inline-block;
+    	font-weight: 400;
+    	text-align: center;
+    	white-space: nowrap;
+    	vertical-align: middle;
+    	user-select: none;
+    	border: 1px solid transparent;
+    	padding: .375rem .75rem;
+    	font-size: 1rem;
+    	line-height: 1.5;
+    	border-radius: .25rem;
+    	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
 .date-1{
 	margin: 10px 20px 5px;
 	font-size: 12px;
 	
 }
 
-.read-more-1{
-	cursor: pointer;
-	outline: 0;
-    outline-color: transparent;
-    outline-style: none;
-    box-shadow: none;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    color: #fff;
-    background-color: #c9344c;
-    border-color: #c9344c;
-    display: inline-block;
-    font-weight: 400;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    user-select: none;
-    border: 1px solid transparent;
-    padding: .375rem .75rem;
-    font-size: 1rem;
-    line-height: 1.5;
-    border-radius: .25rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-}
 
 /*.blog-2{
 	position: relative;
